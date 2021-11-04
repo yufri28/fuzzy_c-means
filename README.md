@@ -1,5 +1,5 @@
 # fuzzy_c-means
-# tutorial ini menggunakan MATLAB online
+# tutorial ini menggunakan 
 1. data disalin ke notepad kemudian simpan dengan format .dat (contohdata.dat)
 2. upload data dengan
   - pilih menu home
