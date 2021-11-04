@@ -24,10 +24,10 @@
   - running program dengan klik icon segitiga pada bar menu 
 
 - Command-command yang dapat digunakan untuk menampilkan hasil dengan menggunakan Command Window
-      1. ketik centers untuk menampilkan hasil perhitungan pusat cluster
-      2. ketik U untuk menampilkan hasil akhir matriks partisi U
-      3. ketik objFunc untuk menampilkan hasil perhitungan fungsi objectif
-      4. ketik maxU untuk menampilkan hasil nilai maximal dari data
-      5. ketik clus_ke1 untuk menampilkan data yang masuk ke cluster 1 (sama juga untuk cluster 2(clus_ke2) dan cluster 3 (clus_ke3))
+   1. ketik centers untuk menampilkan hasil perhitungan pusat cluster
+   2. ketik U untuk menampilkan hasil akhir matriks partisi U
+   3. ketik objFunc untuk menampilkan hasil perhitungan fungsi objectif
+   4. ketik maxU untuk menampilkan hasil nilai maximal dari data
+   5. ketik clus_ke1 untuk menampilkan data yang masuk ke cluster 1 (sama juga untuk cluster 2(clus_ke2) dan cluster 3 (clus_ke3))
   
       
