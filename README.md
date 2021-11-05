@@ -6,14 +6,20 @@
   - pilih menu upload
   - tunggu sampai upload selesai dan klik Ok
 3. masukan code fcm 
+
+
   Cara 1
+  
+  
   - pilih menu home
   - pilih menu New
   - ketik code atau copy code fcm pada text editor yang tersedia
   - save dengan tekan ctrl+s
   - klik menu editor
   - running program dengan klik icon segitiga pada bar menu
+  
   Cara 2
+  
   - pilih menu upload
   - upload codingan fcm dalam format .m
   - setelah diupload
