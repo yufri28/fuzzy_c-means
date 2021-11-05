@@ -15,9 +15,9 @@ clus_ke3 = find(U(3, :) == maxU);% cluster ke 3
 hasil = [clus_ke1, clus_ke2, clus_ke3];
 
 %untuk menampilkan grafik
-plot(data(index1,1),data(index1,2), 'ob')
+plot(data(clus_ke1 ,1),data(clus_ke1 ,2), 'ob')
 hold on
-plot(data(index2,1), data(index2,2), 'or')
+plot(data(clus_ke2,1), data(clus_ke2,2), 'or')
 plot(centers(1,1), centers(1,2), 'xb', 'MarkerSize', 15, 'LineWidth', 3)
 plot(centers(2,1), centers(2,2), 'xr', 'MarkerSize', 15, 'LineWidth', 3)
 hold off
